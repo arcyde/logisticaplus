@@ -3,7 +3,6 @@ const pool = require('./db');
 async function criarTabela() {
     try {
         const query = `
-                drop table if exists clientes;
                 CREATE TABLE IF NOT EXISTS clientes (
                 id SERIAL PRIMARY KEY,
                 nome VARCHAR(100) NOT NULL,
