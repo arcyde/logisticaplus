@@ -4,7 +4,9 @@ Logística+
 
 para executar localmente siga o roteiro, como não sei se a máquina será uma VM ou não ou qual o sistema operacional, tentei deixar o mais genérico possível:
 
-OBS: Ignorar o // dos comandos, apenas para conferência da versão
+OBS: * Ignorar o // dos comandos, apenas para conferência da versão
+     * DDL do banco na pasta "servidor/DDL.txt"
+
 
 1- Salvar o conteúdo, extraí-lo da pasta zipada e colocar na pasta desejada
 
