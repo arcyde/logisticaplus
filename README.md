@@ -4,6 +4,8 @@ Logística+
 
 para executar localmente siga o roteiro, como não sei se a máquina será uma VM ou não ou qual o sistema operacional, tentei deixar o mais genérico possível:
 
+OBS: Ignorar o // dos comandos, apenas para conferência da versão
+
 1- Salvar o conteúdo, extraí-lo da pasta zipada e colocar na pasta desejada
 
 ---------------------------------------Servidor---------------------------------------------------
@@ -36,3 +38,5 @@ para executar localmente siga o roteiro, como não sei se a máquina será uma V
     
 7- Iniciar o site digitando no terminal:
   * npm start
+
+PS: O cálculo de distância euclidiano (arquivo servidor/shortestRoute.js), consegui de um github, porém não salvei o link
